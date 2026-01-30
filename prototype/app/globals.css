@@ -1,0 +1,7 @@
+@import "tailwindcss";
+@import "@mantine/core/styles.css";
+
+/* Design tokens and global styles – extend in lib/design-system/ */
+body {
+  font-family: var(--mantine-font-family), system-ui, sans-serif;
+}

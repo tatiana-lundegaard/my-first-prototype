@@ -70,6 +70,8 @@ jspm_packages/
 # Build outputs
 dist/
 build/
+.next/
+out/
 *.min.js
 *.min.css
 
@@ -82,3 +84,7 @@ temp/
 Thumbs.db
 ehthumbs.db
 Desktop.ini
+
+node_modules/
+*.gz
+.next
